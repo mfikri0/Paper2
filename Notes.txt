@@ -1,2 +1,3 @@
 Ver 1.0 --> Using Returns quarterly, without lag on financial performance
 Ver 1.1 --> Ver 1.0 updated with d with difference
+Ver 1.2 --> Lag in independent variables
